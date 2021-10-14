@@ -6,7 +6,7 @@
 	
 <style>
 	
-	body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;}
 
 *,
 *:before,
@@ -135,9 +135,6 @@
   color: lightgrey;
 }
 
-
-    
-
 </style>
 
 </head>
@@ -167,12 +164,8 @@
               
               <a href="https://t.me/animedubbedmovie" target="_blank" class="card-link">Join Telegram Channel</a>
               
-              
-          </div>
- </div>
- 
- 
- 
+</div>
+</div>
  
  <script>
 window.addEventListener("load", function(){
@@ -190,8 +183,6 @@ document.querySelector(".closebtn").addEventListener("click", function(){
 
 </script>
  
-
 </body>
-
 
 </html>
